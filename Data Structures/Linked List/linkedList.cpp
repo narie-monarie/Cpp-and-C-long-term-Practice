@@ -7,7 +7,6 @@ class node {
 public:
     int val;
     node* next;
-
 };
 
 node* head = new node();
