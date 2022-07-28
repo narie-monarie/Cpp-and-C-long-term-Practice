@@ -3,3 +3,4 @@
 - Everything in C++ is done here
 
 # In here ill share everything that i've learnt
+- `recursion` base case is the default case
