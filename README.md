@@ -4,3 +4,6 @@
 
 # In here ill share everything that i've learnt
 - `recursion` base case is the default case
+
+# Linked list
+- this website shows how to create a linked list using illustrations `https://visualgo.net/en`
