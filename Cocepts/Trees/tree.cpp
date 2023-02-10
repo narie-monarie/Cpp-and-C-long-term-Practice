@@ -7,6 +7,7 @@
 #include <vector>
 using namespace std;
 #define loop(a, b, c) for (int(a) = (b); (a) < (c); ++(a))
+
 typedef long long LL;
 struct node {
   int value;
